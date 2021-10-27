@@ -1,5 +1,5 @@
 # How_to_automatically_run_a_python_script_on_startup_in_linux
-# This is mostly used for robotics or any projcets on rasperrrry pi or jetson nano that you what to run automatically on startup 
+# This is mostly used for robotics or any projcets on raspberry pi or jetson nano that you what to run automatically on startup 
 
 # I mostly use this for robotics projcets so that the robot program will run automtically on reboot and strtup.
 
