@@ -8,6 +8,8 @@ This should work in most of the linux os like Ubuntu ,Linux mint
 
 cammand to install python tkinter - sudo apt-get install python-tk python3-tk tk-dev
 
+How to install Stacer on Ubuntu 20.4 - sudo apt install stacer
+
 #If you haven't subscribed yet - https://www.youtube.com/channel/UC0Nm0O9WIpnPzETvmGoI0jA 
 
 #Video Link 
